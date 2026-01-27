@@ -1,0 +1,249 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "Stylish Designer Pro",
+      "description": "Professional design app with advanced features for creating stunning graphics, UI designs, and digital art. Perfect for designers and content creators.",
+      "category": "Design",
+      "downloads": 15200,
+      "rating": 4.7,
+      "ratings": [
+        {
+          "id": "rating_001",
+          "user": "DesignGuru",
+          "rating": 5,
+          "review": "Amazing app! Best design tool I've used on mobile.",
+          "date": "2024-01-15T10:30:00",
+          "reply": {
+            "admin": "saad123",
+            "message": "Thank you for your feedback! We're glad you're enjoying the app.",
+            "date": "2024-01-16T09:15:00"
+          }
+        },
+        {
+          "id": "rating_002",
+          "user": "CreativeMind",
+          "rating": 4,
+          "review": "Great features but needs more templates.",
+          "date": "2024-01-20T14:45:00",
+          "reply": null
+        }
+      ],
+      "featured": true,
+      "release_date": "2023-11-10",
+      "last_update": "2024-01-25T08:20:00",
+      "version": "2.5.0",
+      "size": "42.5 MB",
+      "privacy_policy": "https://yourdomain.com/privacy/stylish-designer",
+      "support_email": "support@stylishdesigner.com",
+      "developer": "Creative Labs Inc.",
+      "tags": ["design", "graphics", "ui", "art", "creative"],
+      "whats_new": "Added 50+ new templates, improved performance by 40%, new export options",
+      "requirements": "Android 8.0+ | 2GB RAM minimum",
+      "icon_url": "/api/icon/1",
+      "screenshot_urls": [
+        "https://via.placeholder.com/300x600/4361ee/ffffff?text=Screen+1",
+        "https://via.placeholder.com/300x600/3a0ca3/ffffff?text=Screen+2",
+        "https://via.placeholder.com/300x600/7209b7/ffffff?text=Screen+3"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=example1",
+      "apk_path": "uploads/stylish-designer-pro-v2.5.apk",
+      "external_link": ""
+    },
+    {
+      "id": 2,
+      "name": "Photo Editor Master",
+      "description": "Advanced photo editing app with professional tools, filters, and effects. Edit photos like a pro with this powerful mobile editor.",
+      "category": "Photo",
+      "downloads": 23450,
+      "rating": 4.5,
+      "ratings": [
+        {
+          "id": "rating_003",
+          "user": "PhotographyLover",
+          "rating": 5,
+          "review": "Best photo editor on Android! Filters are amazing.",
+          "date": "2024-01-18T16:20:00",
+          "reply": {
+            "admin": "saad123",
+            "message": "Thanks for the 5-star rating! More filters coming soon.",
+            "date": "2024-01-19T11:30:00"
+          }
+        }
+      ],
+      "featured": true,
+      "release_date": "2023-09-05",
+      "last_update": "2024-01-20T10:15:00",
+      "version": "3.2.1",
+      "size": "68.3 MB",
+      "privacy_policy": "https://yourdomain.com/privacy/photo-editor",
+      "support_email": "help@photoeditormaster.com",
+      "developer": "Pixel Perfect Studios",
+      "tags": ["photo", "editor", "filters", "camera", "effects"],
+      "whats_new": "New AI filters, background removal tool, batch editing",
+      "requirements": "Android 7.0+ | 3GB RAM recommended",
+      "icon_url": "/api/icon/2",
+      "screenshot_urls": [
+        "https://via.placeholder.com/300x600/4cc9f0/ffffff?text=Editor",
+        "https://via.placeholder.com/300x600/4895ef/ffffff?text=Filters",
+        "https://via.placeholder.com/300x600/4361ee/ffffff?text=Tools"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=example2",
+      "apk_path": "uploads/photo-editor-master-v3.2.apk",
+      "external_link": ""
+    },
+    {
+      "id": 3,
+      "name": "File Manager Plus",
+      "description": "Complete file management solution with cloud integration, compression, and secure file handling. Organize your files efficiently.",
+      "category": "Utility",
+      "downloads": 8900,
+      "rating": 4.2,
+      "ratings": [
+        {
+          "id": "rating_004",
+          "user": "TechUser",
+          "rating": 4,
+          "review": "Good app but needs better cloud sync.",
+          "date": "2024-01-22T09:10:00",
+          "reply": null
+        }
+      ],
+      "featured": false,
+      "release_date": "2023-12-01",
+      "last_update": "2024-01-10T14:30:00",
+      "version": "1.5.3",
+      "size": "28.7 MB",
+      "privacy_policy": "https://yourdomain.com/privacy/file-manager",
+      "support_email": "support@filemanagerplus.com",
+      "developer": "Utility Apps Co.",
+      "tags": ["file", "manager", "organizer", "storage", "cloud"],
+      "whats_new": "Added ZIP/RAR support, improved search, dark theme",
+      "requirements": "Android 6.0+ | 1GB RAM",
+      "icon_url": "/api/icon/3",
+      "screenshot_urls": [
+        "https://via.placeholder.com/300x600/f72585/ffffff?text=Folders",
+        "https://via.placeholder.com/300x600/b5179e/ffffff?text=Cloud"
+      ],
+      "video_url": "",
+      "apk_path": "uploads/file-manager-plus-v1.5.apk",
+      "external_link": ""
+    },
+    {
+      "id": 4,
+      "name": "Music Player X",
+      "description": "Premium music player with equalizer, lyrics support, and playlist management. Enjoy your music like never before.",
+      "category": "Music",
+      "downloads": 15600,
+      "rating": 4.8,
+      "ratings": [
+        {
+          "id": "rating_005",
+          "user": "MusicFan",
+          "rating": 5,
+          "review": "Sound quality is incredible! Best equalizer settings.",
+          "date": "2024-01-24T20:15:00",
+          "reply": {
+            "admin": "saad123",
+            "message": "Thank you! We're working on more audio presets.",
+            "date": "2024-01-25T08:45:00"
+          }
+        }
+      ],
+      "featured": true,
+      "release_date": "2023-10-15",
+      "last_update": "2024-01-28T09:00:00",
+      "version": "2.0.0",
+      "size": "35.2 MB",
+      "privacy_policy": "https://yourdomain.com/privacy/music-player",
+      "support_email": "contact@musicplayerx.com",
+      "developer": "Audio Tech Ltd.",
+      "tags": ["music", "player", "audio", "equalizer", "playlist"],
+      "whats_new": "New 10-band equalizer, sleep timer, car mode",
+      "requirements": "Android 8.0+ | Supports all audio formats",
+      "icon_url": "/api/icon/4",
+      "screenshot_urls": [
+        "https://via.placeholder.com/300x600/560bad/ffffff?text=Player",
+        "https://via.placeholder.com/300x600/480ca8/ffffff?text=Equalizer"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=example3",
+      "apk_path": "uploads/music-player-x-v2.0.apk",
+      "external_link": ""
+    },
+    {
+      "id": 5,
+      "name": "Fitness Tracker Pro",
+      "description": "Track your workouts, monitor health metrics, and achieve fitness goals with this comprehensive fitness application.",
+      "category": "Health",
+      "downloads": 7500,
+      "rating": 4.3,
+      "ratings": [],
+      "featured": false,
+      "release_date": "2024-01-01",
+      "last_update": "2024-01-27T16:45:00",
+      "version": "1.2.5",
+      "size": "52.8 MB",
+      "privacy_policy": "https://yourdomain.com/privacy/fitness-tracker",
+      "support_email": "support@fitnesstracker.com",
+      "developer": "Health & Fitness Inc.",
+      "tags": ["fitness", "health", "workout", "tracker", "exercise"],
+      "whats_new": "Added workout plans, calorie counter, progress charts",
+      "requirements": "Android 9.0+ | GPS required for tracking",
+      "icon_url": "/api/icon/5",
+      "screenshot_urls": [
+        "https://via.placeholder.com/300x600/3f37c9/ffffff?text=Workout",
+        "https://via.placeholder.com/300x600/3a0ca3/ffffff?text=Stats"
+      ],
+      "video_url": "",
+      "apk_path": "uploads/fitness-tracker-pro-v1.2.apk",
+      "external_link": ""
+    }
+  ],
+  "categories": ["Design", "Photo", "Utility", "Music", "Health", "Game", "Productivity"],
+  "analytics": {
+    "total_downloads": 70750,
+    "total_ratings": 5,
+    "daily_stats": {
+      "2024-01-28": {
+        "downloads": 320,
+        "ratings": 2
+      },
+      "2024-01-27": {
+        "downloads": 280,
+        "ratings": 1
+      },
+      "2024-01-26": {
+        "downloads": 310,
+        "ratings": 0
+      }
+    },
+    "category_stats": {
+      "Design": {
+        "downloads": 15200,
+        "apps": 1
+      },
+      "Photo": {
+        "downloads": 23450,
+        "apps": 1
+      },
+      "Utility": {
+        "downloads": 8900,
+        "apps": 1
+      },
+      "Music": {
+        "downloads": 15600,
+        "apps": 1
+      },
+      "Health": {
+        "downloads": 7500,
+        "apps": 1
+      }
+    }
+  },
+  "config": {
+    "privacy_policy": "https://yourdomain.com/privacy",
+    "support_email": "support@mystore.com",
+    "admin_email": "admin@mystore.com",
+    "website_url": "https://9090muhammadsaad-rgb.github.io/My-Store/"
+  }
+    }
